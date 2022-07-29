@@ -12,5 +12,4 @@ module.exports = {
   updateContact,
   updateStatusContact,
   removeContact,
-  
 };
